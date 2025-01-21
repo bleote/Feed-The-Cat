@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc73a06d2b806594fba7d0680d15b33f, type: 3}
+  m_Name: Normal_Ice_Cream_04
+  m_EditorClassIdentifier: 
+  <Id>k__BackingField: 4
+  <Whole>k__BackingField: {fileID: 21300000, guid: 56e2c712413886b4289bc7b1602c0452, type: 3}
+  <SemiMelted>k__BackingField: {fileID: 21300000, guid: 67a65562d560b3b40b1909f7438ea68a, type: 3}
+  <Melted>k__BackingField: {fileID: 21300000, guid: 67a65562d560b3b40b1909f7438ea68a, type: 3}
+  <ScoreValue>k__BackingField: 1

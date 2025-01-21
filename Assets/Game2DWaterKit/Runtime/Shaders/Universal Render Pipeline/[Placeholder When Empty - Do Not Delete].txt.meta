@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f36d6f292fbba55499e56845506f459f
+timeCreated: 1589143058
+licenseType: Store
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 118057
+  packageName: Game 2D Water Kit
+  packageVersion: 1.4.8
+  assetPath: Assets/Game2DWaterKit/Runtime/Shaders/Universal Render Pipeline/[Placeholder
+    When Empty - Do Not Delete].txt
+  uploadId: 534182

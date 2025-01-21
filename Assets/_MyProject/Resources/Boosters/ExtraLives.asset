@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2a132a8220428e429605f5a38bdd256, type: 3}
+  m_Name: ExtraLives
+  m_EditorClassIdentifier: 
+  <Id>k__BackingField: 3
+  <Name>k__BackingField: Exta Lives
+  <AvailableSprite>k__BackingField: {fileID: 21300000, guid: 3fd492663706eb140a49a6e26f758462, type: 3}
+  <NotAvailableSprite>k__BackingField: {fileID: 21300000, guid: 3cd804f3cb3980f4c83b7697848e3fde, type: 3}

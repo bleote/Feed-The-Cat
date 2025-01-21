@@ -1,0 +1,9 @@
+org.gradle.jvmargs=-Xmx**JVM_HEAP_SIZE**M
+org.gradle.parallel=true
+unityStreamingAssets=**STREAMING_ASSETS**
+# Android Resolver Properties Start
+android.useAndroidX=true
+android.enableJetifier=true
+# Android Resolver Properties End
+distributionUrl=file:///D:/Projects/Unity/feed-the-cat/Assets/Gradle/gradle-8.10-bin.zip
+**ADDITIONAL_PROPERTIES**
